@@ -1,11 +1,12 @@
-# Clip to PSD
+<img width="3840" height="1080" alt="image" src="https://github.com/user-attachments/assets/c01f1ef5-fcaa-445d-8254-8ebe47936a43" /># Clip to PSD
 
 [![Download for Windows](https://img.shields.io/badge/Download-for%20Windows-blue?style=for-the-badge)](https://github.com/Oreyou101/clip-to-psdv2/releases/latest/download/ClipToPSD_Setup.exe)
 ![Latest version](https://img.shields.io/github/v/release/Oreyou101/clip-to-psdv2)
 
 Convert Clip Studio Paint `.clip` files to Photoshop `.psd` - no Clip Studio or Python needed.
 
-![Screenshot](screenshot.png)
+![Screenshot](<img width="3840" height="1080" alt="image" src="https://github.com/user-attachments/assets/b506bb76-ba32-4b8e-8d67-fbe9befa5bee" />
+)
 
 ## Why this project?
 
