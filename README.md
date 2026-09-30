@@ -5,7 +5,8 @@
 
 Convert Clip Studio Paint `.clip` files to Photoshop `.psd` - no Clip Studio or Python needed.
 
-![Screenshot](<img width="599" height="466" alt="image" src="https://github.com/user-attachments/assets/dda3f5ee-df8d-4d0c-b1b8-4eb0db644a60" />
+![Screenshot](screenshot.png<img width="597" height="466" alt="image" src="https://github.com/user-attachments/assets/acbd69d6-f8ba-4fb5-aa73-97e4045b2626" />
+<img width="440" height="389" alt="image" src="https://github.com/user-attachments/assets/ad352dce-91a3-4c29-8db1-f2cb9a667503" />
 )
 
 ## Why this project?
